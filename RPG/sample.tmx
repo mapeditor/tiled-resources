@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" source="roguelikeChar_transparent.tsx"/>
+ <tileset firstgid="649" source="roguelikeDungeon_transparent.tsx"/>
+ <tileset firstgid="1171" source="roguelikeIndoor_transparent.tsx"/>
+ <tileset firstgid="1639" source="roguelikeSheet_transparent.tsx"/>
+ <tileset firstgid="3406" source="roguelikeDungeon_transparent.tsx"/>
+ <tileset firstgid="3928" source="roguelikeSheet_transparent.tsx"/>
+ <layer name="Ground" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt08EJgDAQRFFP9l+CoHalvZgcBBFjsmZhZ2QOv4DH7M7jMMxOTak9tQbkZcgtQQZPR+QWno7ILeTAuikvR/QWHg6ELXodKIYeB5LhqwPN8NWB8Ne9DsQtrA5Ug9WBeE9WB/IWFgfyFq0O9C1aHehbtDgYtqg5WAw1B8M91RxMW7w5mLYoOdi2KDnYtnhyMG7x5GDc4u5g3eLuYN3idOQdNuIt1pH7lq79waCUUkoppZRSyt4BFTmH4g==
+  </data>
+ </layer>
+ <layer name="Ground Overlay" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmEEKwjAQRWebXqh6A9fihdyLl9LWS6k1XQRKiJKSkUzKe/A3nSzmJZlSKgIAAAAAAABgj8GJjD4P9702Jmo1WfYV8vKZfJ4/apMhjyHqa20sUOpgxeNd6ICHHhp3KuVx8M/OPleFnDL2SeMs/n0elwzXYwMeOfSdyH0DHjPMuR2PFuYcDzzwwEPrnVvbQ+ss8MBjidY3Yk2P8G+k9TnXvFN4lDPPxi6ReF5uLr0uXm+NPu6vy1tvldDf3nCPsH0+UEnutQ==
+  </data>
+ </layer>
+ <layer name="Obstacles" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmL0NAjEMhd0dBy2wEwUwDROAgCkYAYkeJgDxMwXSDUBNGiSanKJcbMe590luEz9HeXZCBHLjM9LOwAargXYG5bJBbVs5Jq7PRaneb6F94Wn2Se23oetpehF6TP6cCjmjRkhHaL1mmXu2VL0ssC6kFmdmHW1zVuqZTovYmQ4+CqxzGGpnAFLC6cmPmujp4lXz7fGD850tqYOTm8v/6uJuXEcq8PbUQXMOSnmXNecgC54U0lsseFKX3jKuiCaemFZxa2q8o+Yu14UnlpE6pP7G/+HQoYGGDo5+2dfzCK2ldK/culx3nth3OA/8GQAAQL/5Aks7PK8=
+  </data>
+ </layer>
+ <layer name="Doors/Windows/Roofs" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt0jEOQGAQhNG/onARCi2F0yDRInEIpZoL0LqDe5lWNBISVr6XTLadSdY5AAAAAAAAAE8IA+diJQrebnJPrv6VUhjfMap/qUzGd6z+8VrWe283uCbRz2RKavx3avXvlIYdnzCrf6ssxncM3vFatv1gAwAAAICzHbklDS4=
+  </data>
+ </layer>
+ <layer name="Roof Overlay" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztzkEJAEAIADB/gvWv5aUwgyD42RIsAgAAAADY9PJ6AGz4dT0AAAAAphoGrAGP
+  </data>
+ </layer>
+</map>
