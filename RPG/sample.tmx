@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="16" tileheight="16" nextobjectid="1">
- <tileset firstgid="1" name="roguelikeChar_transparent" tilewidth="16" tileheight="16" spacing="1" tilecount="648">
-  <image source="roguelikeChar_transparent.png" width="918" height="203"/>
- </tileset>
+ <tileset firstgid="1" source="roguelikeChar_transparent.tsx"/>
  <tileset firstgid="649" source="roguelikeDungeon_transparent.tsx"/>
- <tileset firstgid="1171" name="roguelikeIndoor_transparent" tilewidth="16" tileheight="16" spacing="1" tilecount="468">
-  <image source="roguelikeIndoor_transparent.png" width="457" height="305"/>
- </tileset>
+ <tileset firstgid="1171" source="roguelikeIndoor_transparent.tsx"/>
  <tileset firstgid="1639" source="roguelikeSheet_transparent.tsx"/>
+ <tileset firstgid="3406" source="roguelikeDungeon_transparent.tsx"/>
+ <tileset firstgid="3928" source="roguelikeSheet_transparent.tsx"/>
  <layer name="Ground" width="50" height="50">
   <data encoding="base64" compression="zlib">
    eJzt08EJgDAQRFFP9l+CoHalvZgcBBFjsmZhZ2QOv4DH7M7jMMxOTak9tQbkZcgtQQZPR+QWno7ILeTAuikvR/QWHg6ELXodKIYeB5LhqwPN8NWB8Ne9DsQtrA5Ug9WBeE9WB/IWFgfyFq0O9C1aHehbtDgYtqg5WAw1B8M91RxMW7w5mLYoOdi2KDnYtnhyMG7x5GDc4u5g3eLuYN3idOQdNuIt1pH7lq79waCUUkoppZRSyt4BFTmH4g==
