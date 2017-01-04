@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="64" tileheight="64" nextobjectid="81">
+ <tileset firstgid="1" source="scifi_tilesheet.tsx"/>
+ <layer name="Land" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJytk0kOACAIA5H/P9qrISzT4IEoxoy0oJvZEcPBuT+rJzllRkbF7WrIasq4kRf3mYaqpo6ZaaG+VbxKH2F1PnV3Jq3Ed5U16SSzQN6tfKVeTD1T/teUK/91w+rm9UdQ/1TNih9bHtFGWD96TuZs278LJjECKg==
+  </data>
+ </layer>
+ <layer name="Roads" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAfcFGgl1rmGQAxNxTLUsE8ZKCAZDYI61No3mAIr1HzEMCQyuaNglEw0gAAfkYBVQ==
+  </data>
+ </layer>
+ <objectgroup name="Trees">
+  <object id="1" gid="55" x="838" y="275" width="64" height="64"/>
+  <object id="2" gid="55" x="636" y="542" width="64" height="64"/>
+  <object id="3" gid="55" x="1143" y="702" width="64" height="64"/>
+  <object id="4" gid="55" x="805" y="1194" width="64" height="64"/>
+  <object id="5" gid="56" x="123" y="1126" width="64" height="64"/>
+  <object id="6" gid="56" x="555" y="857" width="64" height="64"/>
+  <object id="7" gid="56" x="242" y="401" width="64" height="64"/>
+  <object id="8" gid="56" x="491" y="118" width="64" height="64"/>
+  <object id="9" gid="57" x="745" y="277" width="64" height="64"/>
+  <object id="10" gid="57" x="301" y="615" width="64" height="64"/>
+  <object id="11" gid="57" x="73" y="237" width="64" height="64"/>
+  <object id="12" gid="57" x="1072" y="555" width="64" height="64"/>
+  <object id="13" gid="57" x="738" y="704" width="64" height="64"/>
+  <object id="14" gid="57" x="1087" y="1209" width="64" height="64"/>
+  <object id="15" gid="57" x="506" y="1119" width="64" height="64"/>
+  <object id="16" gid="58" x="1053" y="990" width="64" height="64"/>
+  <object id="17" gid="58" x="420" y="1303" width="64" height="64"/>
+  <object id="18" gid="58" x="-11" y="1267" width="64" height="64"/>
+  <object id="19" gid="58" x="157" y="76" width="64" height="64"/>
+  <object id="20" gid="58" x="1194" y="153" width="64" height="64"/>
+ </objectgroup>
+ <objectgroup name="Stones">
+  <object id="21" gid="73" x="1096" y="111" width="64" height="64"/>
+  <object id="24" gid="74" x="881" y="562" width="64" height="64"/>
+  <object id="25" gid="75" x="915" y="1243" width="64" height="64"/>
+  <object id="26" gid="76" x="462" y="735" width="64" height="64"/>
+  <object id="27" gid="91" x="165" y="1233" width="64" height="64"/>
+  <object id="28" gid="92" x="155" y="263" width="64" height="64"/>
+  <object id="29" gid="93" x="1150" y="372" width="64" height="64"/>
+  <object id="30" gid="75" x="441" y="208" width="64" height="64"/>
+ </objectgroup>
+ <objectgroup name="Plasma">
+  <object id="32" gid="77" x="1071" y="304" width="64" height="64"/>
+  <object id="33" gid="95" x="121" y="684" width="64" height="64"/>
+  <object id="34" gid="77" x="655" y="74" width="64" height="64"/>
+  <object id="37" gid="95" x="1132" y="1100" width="64" height="64"/>
+ </objectgroup>
+ <objectgroup name="Gold">
+  <object id="39" gid="96" x="468" y="407" width="64" height="64"/>
+  <object id="40" gid="78" x="792" y="969" width="64" height="64"/>
+ </objectgroup>
+ <objectgroup name="Buildings">
+  <object id="41" gid="33" x="997" y="769" width="64" height="64"/>
+  <object id="42" gid="17" x="935" y="1034" width="64" height="64"/>
+  <object id="43" gid="36" x="727" y="838" width="64" height="64"/>
+  <object id="45" gid="51" x="629" y="1113" width="64" height="64"/>
+  <object id="46" gid="36" x="50" y="819" width="64" height="64"/>
+  <object id="47" gid="53" x="163" y="962" width="64" height="64"/>
+  <object id="48" gid="34" x="230" y="784" width="64" height="64"/>
+  <object id="49" gid="16" x="302" y="1153" width="64" height="64"/>
+  <object id="50" gid="17" x="348" y="963" width="64" height="64"/>
+  <object id="51" gid="112" x="355" y="788" width="64" height="64"/>
+  <object id="52" gid="112" x="1008" y="1130" width="64" height="64"/>
+ </objectgroup>
+ <objectgroup name="Units">
+  <object id="53" gid="68" x="865" y="922" width="64" height="64"/>
+  <object id="54" gid="69" x="870" y="1107" width="64" height="64"/>
+  <object id="55" gid="2147483718" x="595" y="1002" width="64" height="64"/>
+  <object id="56" gid="2147483719" x="629" y="934" width="64" height="64"/>
+  <object id="58" gid="2147483718" x="681" y="1048" width="64" height="64"/>
+  <object id="59" gid="2147483719" x="572" y="1199" width="64" height="64"/>
+  <object id="60" gid="106" x="395" y="1022" width="64" height="64"/>
+  <object id="62" gid="106" x="489" y="1180" width="64" height="64"/>
+  <object id="64" gid="107" x="440" y="944" width="64" height="64"/>
+  <object id="66" gid="104" x="340" y="1232" width="64" height="64"/>
+  <object id="67" gid="103" x="201" y="887" width="64" height="64"/>
+  <object id="68" gid="102" x="371" y="1075" width="64" height="64"/>
+  <object id="69" gid="102" x="382" y="1150" width="64" height="64"/>
+  <object id="70" gid="102" x="382" y="910" width="64" height="64"/>
+  <object id="71" gid="102" x="420" y="823" width="64" height="64"/>
+  <object id="72" gid="66" x="856" y="986" width="64" height="64"/>
+  <object id="73" gid="66" x="776" y="1147" width="64" height="64"/>
+  <object id="74" gid="65" x="778" y="1056" width="64" height="64"/>
+  <object id="75" gid="65" x="728" y="912" width="64" height="64"/>
+  <object id="77" gid="62" x="934" y="1123" width="64" height="64"/>
+  <object id="78" gid="62" x="1043" y="1091" width="64" height="64"/>
+  <object id="79" gid="99" x="324" y="831" width="64" height="64"/>
+  <object id="80" gid="99" x="292" y="894" width="64" height="64"/>
+ </objectgroup>
+</map>
